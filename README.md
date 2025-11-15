@@ -2,6 +2,10 @@
 
 Este repositório apresenta uma visão objetiva dos principais conceitos relacionados à Arquitetura de Software, reunindo fundamentos essenciais para quem está iniciando no desenvolvimento de sistemas. O conteúdo foi estruturado para servir como base de estudo e como referência para futuros projetos.
 
+<div align= "center">
+  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/8372635a-ff59-4fa1-aef9-c306661afc63" />
+</div>
+
 # Fundamentos de Arquitetura de Software
 
 ## Objetivo
